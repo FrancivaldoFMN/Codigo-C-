@@ -1,0 +1,8 @@
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\bin\Debug\Projeto Quarta Sala de Aula.exe.config
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\bin\Debug\Projeto Quarta Sala de Aula.exe
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\bin\Debug\Projeto Quarta Sala de Aula.pdb
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\obj\Debug\Projeto Quarta Sala de Aula.csproj.AssemblyReference.cache
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\obj\Debug\Projeto Quarta Sala de Aula.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\obj\Debug\Projeto Quarta Sala de Aula.csproj.CoreCompileInputs.cache
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\obj\Debug\Projeto Quarta Sala de Aula.exe
+C:\Users\Francivaldo\source\repos\Projeto Quarta Sala de Aula\Projeto Quarta Sala de Aula\obj\Debug\Projeto Quarta Sala de Aula.pdb
